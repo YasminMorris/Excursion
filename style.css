@@ -28,3 +28,9 @@ h5 {
     font-family: Verdana, Georgia, sans-serif;
    text-decoration: underline; 
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Georgia, sans-serif;
+}
